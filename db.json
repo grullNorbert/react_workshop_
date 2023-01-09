@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "hellod",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "xcdsds",
+      "reminder": false
+    },
+    {
+      "text": "hellosad",
+      "day": "sad",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Hellocx",
+      "day": "10, Péntek",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
